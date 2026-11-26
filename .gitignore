@@ -26,3 +26,8 @@ dist-ssr
 # Environment variables
 .env*
 !.env.example
+
+# Internal specification & instruction docs
+DESIGN.md
+SPEC.md
+instruksi-dosen.md
