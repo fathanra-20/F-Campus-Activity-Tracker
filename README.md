@@ -13,9 +13,7 @@ Campus & Daily Activity Tracker untuk mencatat kegiatan akademik dan keseharian 
 
 ## Bukti screenshot
 
-![Dashboard produksi dengan identitas, statistik, form, dan daftar kegiatan](./screenshots/dashboard.png)
-
-![Dokumentasi komponen React yang terbuka](./screenshots/interactive-docs.png)
+![Dashboard produksi dengan dokumentasi konsep React yang terbuka](./screenshots/dashboard-fullpage.png)
 
 ## Fitur
 
