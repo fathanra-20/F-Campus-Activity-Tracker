@@ -6,6 +6,17 @@ Campus & Daily Activity Tracker untuk mencatat kegiatan akademik dan keseharian 
 **NIM:** 1247050044 — S1 Teknik Informatika, Semester 5  
 **Profil:** [fathanra.vercel.app](https://fathanra.vercel.app)
 
+## Demo produksi dan repository
+
+- [Live Demo — Aplikasi Daftar Kegiatan Mahasiswa](https://fathanra-activities.vercel.app)
+- [Repository GitHub — F-Campus-Activity-Tracker](https://github.com/fathanra-20/F-Campus-Activity-Tracker)
+
+## Bukti screenshot
+
+![Dashboard produksi dengan identitas, statistik, form, dan daftar kegiatan](./screenshots/dashboard.png)
+
+![Dokumentasi komponen React yang terbuka](./screenshots/interactive-docs.png)
+
 ## Fitur
 
 - Menambah kegiatan dengan nama, kategori, tanggal, waktu, lokasi, dan deskripsi.
